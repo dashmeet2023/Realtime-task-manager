@@ -36,7 +36,7 @@ All updates instantly sync across devices using the Convex real-time database.
 * **Expo**
 * **React Navigation**
 * **Convex (Realtime Backend)**
-* **JavaScript**
+* **TypeScript**
 
 ---
 
@@ -45,8 +45,8 @@ All updates instantly sync across devices using the Convex real-time database.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone (https://github.com/ZouhairDev49/react-native-realtime-task-manager.git)
+cd react-native-realtime-task-manager
 ```
 
 ---
@@ -61,7 +61,7 @@ npm install
 
 ### 3️⃣ Environment Variables
 
-1. Create a `.env`.local file in the project root:
+1. Create a `.env.local` file in the project root:
 
 ```
 CONVEX_DEPLOYMENT=your_convex_deployment
@@ -110,7 +110,11 @@ Run on:
 
 ## 📸 Screenshots
 
-(Add screenshots here later)
+<img width="948" height="622" alt="image" src="https://github.com/user-attachments/assets/d687c264-9841-4f27-b0c9-5ca862103668" />
+<img width="902" height="552" alt="image" src="https://github.com/user-attachments/assets/e3f88035-3824-4d04-81a4-5931aa8ccac6" />
+<img width="499" height="522" alt="image" src="https://github.com/user-attachments/assets/9b8572d0-de23-4fee-9d71-40897fef6a2b" />
+
+
 
 ---
 
