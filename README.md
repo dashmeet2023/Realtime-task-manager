@@ -6,8 +6,6 @@ Unlike a simple UI demo, this app includes real-time synchronization, persistent
 
 ---
 
-## 📱 Features
-
 ### 📝 Tasks
 
 * ➕ Add new tasks
